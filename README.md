@@ -1,8 +1,8 @@
-# KCC Site Startup Template
+# New KCC Adult Education Site
 
 #### Jekyll + Gulp + Sass + Yarn + BrowserSync + ...
 
-Development of the new KCC website based off of design mockups and using open source technologies.
+Development of the new KCC Adult Education website based off of design mockups and using open source technologies.
 
 ## Requirements
 	- Jekyll - `$ gem install jekyll bundler`
